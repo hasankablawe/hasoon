@@ -4,4 +4,4 @@
 🐍 Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)
 ⚡ C++ (STL, Competitive Programming)
 📊 Data Visualization (Matplotlib, Seaborn)
-🛠 ML & AI (Regression, Classification, Neural Networks)
+🛠 ML & AI (Regression, Classification, Neural Networks)..
